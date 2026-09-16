@@ -107,7 +107,7 @@ def load_lxcat_cross_section(filepath):
 
 
 # =========================================================================
-# 2) Built-in analytic engineering fits (xenon), Arrhenius form
+# 2) Built-in analytic engineering fits (xenon), Arhenius form
 # =========================================================================
 # K(Te) = K0 * Te^p * exp(-Eth / Te),  Te in eV, K in m^3/s
 #
